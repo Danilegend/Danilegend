@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi! I'am Daniel Sema 👋 
 
-<!--
-**Danilegend/Danilegend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+                 *** Daniel Sema/Danilegend ***
+- 🔭 I’m currently working on how to use the latest tools and technologies.
+- 🌱 As a fullstack developer, my career aspirations are to work with a team of designers to create beautiful, user-friendly software.
+- 💬 have experience with various web development technologies, such as HTML, CSS, JavaScript, and jQuery
+- 📫 How to reach me: https://danilegend.github.io/My-Portfolio-page/ or dansema2001@yahoo.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages & Tools 👋 
+
+![githubProfile](https://user-images.githubusercontent.com/46860435/190427717-76dc2523-2269-497e-9f51-52a74a88eee3.jpg)
+
+
+
