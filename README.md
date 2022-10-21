@@ -5,7 +5,8 @@
 - 🔭 I’m currently working on how to use the latest tools and technologies.
 - 🌱 As a fullstack developer, my career aspirations are to work with a team of designers to create beautiful, user-friendly software.
 - 💬 have experience with various web development technologies, such as HTML, CSS, JavaScript, and jQuery
-- 📫 How to reach me: https://danilegend.github.io/My-Portfolio-page/ or dansema2001@yahoo.com
+- 📫 How to reach me:https://danilegend.github.io/Metropolia_portfolio_project1/ or  <br> 
+                      https://danilegend.github.io/My-Portfolio-page/ or dansema2001@yahoo.com
 
 ### Languages & Tools 👋 
 
